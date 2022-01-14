@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 	int A,B;
-        A=12;
+        A=1235;
         B=23;
         Scanner in;
         in=new Scanner(System.in);
